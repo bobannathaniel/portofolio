@@ -1,6 +1,6 @@
 # Project Portofolio
 
-**Project 1: Keuskupan Agung Jakarta (Associate Member of Project Division IT Div Bina Nusantara University)**
+## Project 1: Keuskupan Agung Jakarta (Associate Member of Project Division IT Div Bina Nusantara University)
 
 Keuskupan Agung Jakarta adalah suatu _web application_ yang menggunakan ASP.NET MVC. Saya bergabung dalam project ini pada saat saya memasuki semester 2 di kuliah saya dan project ini sudah setengah jadi. Saya bertugas untuk membuat page Persyaratan Keuskupan, Pembaruan Perkawinan, Download Sertifikat Pembaruan Perkawinan, dan juga melakukan bug fixing. Project ini sudah terselesaikan pada tahun 2019.
 
