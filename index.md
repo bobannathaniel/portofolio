@@ -23,3 +23,13 @@ Wine Review ini adalah program yang digunakan untuk menilai suatu review baik at
 **Project 5: Lensman (Software Engineering)**
 
 Lensman ini adalah aplikasi jasa yang bertujuan untuk mempermudah para pencari dan penyedia jasa fotografi untuk bertemu dan juga tempat berjualan foto untuk para fotografer. _User_ nantinya dapat membuat toko yang menjual jasa ataupun foto yang telah dipotret dan diedit dan bertransaksi dengan aman menggunakan aplikasi ini. Aplikasi ini akan bertindak sebagai _middleman_ antara toko dan juga pembeli sehingga kedua belah pihak dapat merasa aman dalam bertransaksi. Fotografer juga dapat memamerkan hasil fotonya yang pernah ia potret agar para pembeli jasa dapat melihat hasil potretan fotografer tersebut. Project ini berhenti di tahap mockup. Project ini saya lakukan bersama 3 teman saya yaitu Kevin Hans Christiono (2201761494), Alvita, dan juga Alif Winanda (2201818372).
+
+
+**Project 6: Open Innovation**
+
+Open Innovation adalah aplikasi yang dibuat untuk menampung ide dan inovasi dan membuat forum untuk mengembangkan ide dan inovasi tersebut. Pembuatan web application ini menggunakan C# dan juga ASP.NET Core sebagai frameworknya. Saya merupakan bagian dari tim backend yang bertanggung jawab dalam membuat API dalam aplikasi ini.
+
+
+**Project 7: Simulasi VR APAR**
+
+Project ini menggunakan Unity sebagai engine untuk membuat simulasi kebakaran dan menggunakan apar.
